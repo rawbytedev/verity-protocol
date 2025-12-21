@@ -1,0 +1,12 @@
+did:verity:<namespace>:<entity-identifier>
+
+Examples:
+did:verity:gov:ghana-election-commission
+did:verity:org:acme-corporation
+did:verity:media:trusted-news-network
+Namespace Categories:
+gov : Government entities
+org : Corporations/NGOs
+media : News organizations
+edu : Educational institutions
+ind : Verified individuals
