@@ -1,7 +1,9 @@
+# Claim Verification Process (This is a draft)
+
 1. Content Verification Request:
     Input: Content URL + Platform Context
 2. Content Normalization:
-    • Download content from URL
+    • Download content from URL(or from user)
     • Apply platform-specific normalization (compression, resizing)
     • Generate perceptual hash for images/video
     • Extract text for documents
